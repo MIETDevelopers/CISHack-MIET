@@ -9,3 +9,4 @@ Project Name: Medibot <br><br>
 For more insight on the project check "Team Trojans Medibot Presentation.pptx"
 
 Note: Please review our application prototype "medibot.apk"
+p.s. there might be some bugs
