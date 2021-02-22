@@ -6,6 +6,6 @@ members:
 - Namit Verma 
 
 Project Name: Medibot <br><br>
-for more insight on the project check "Team Trojans Medibot Presentation.ppt"
+For more insight on the project check "Team Trojans Medibot Presentation.ppt"
 
 Note: Please review our application prototype "medibot.apk"
