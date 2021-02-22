@@ -5,7 +5,7 @@ members:
 - Doni Choudhary
 - Namit Verma 
 
-Project Name: Medibot <br>
+Project Name: Medibot <br><br>
 for more insight on the project check "Team Trojans Medibot Presentation.ppt"
 
 Note: Please review our application prototype "medibot.apk"
